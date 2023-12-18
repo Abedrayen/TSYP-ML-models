@@ -1,0 +1,11 @@
+Can predict Disease by entering provided symptoms
+
+Can predict heart problem by entering parameters
+
+Can predict pneumonia by uploading x-ray images
+
+Can predict diabetes problem by entering
+
+Suggest doctor after predicting any disease if doctor is available
+
+BreastCancer Detection
